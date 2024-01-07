@@ -113,7 +113,7 @@ def chat_with_dataset():
             return None
 
     st.subheader("Analyze Your Data with English")
-    st.info("NOTES: For better result, ask one question at a time. Plot outputs is not supported in this version. Don't forget to add your OpenAI key. Clear conversation history once you are done.")
+    st.info("NOTES: For better result, ask one question at a time. Plot outputs is not supported in this version. If your file is too large you will get a context error. Clear conversation history once you are done.")
 
     openai_api_key = st.sidebar.text_input("OpenAI API Key", type="password")
 
