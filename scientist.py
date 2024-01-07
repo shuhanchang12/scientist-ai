@@ -352,7 +352,7 @@ def chat_with_papers():
     st.title('Chat with Papers')
 
     #some information
-    st.info("I have not implemented memory 🧠 yet, so include conetxt in all questions asked. Also for best results, ask specific questions about the paper📄")
+    st.info("I have not implemented memory 🧠 yet, so include context in all questions asked. Also for best results, ask specific questions about the paper📄")
     st.warning("⚠️If you have uploaded a PDF in either this session or the Reviewer Agent session that is different from the one you intend to upload here, please refresh the web page before proceeding.")
 
     # Main logic for handling OpenAI API key
