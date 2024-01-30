@@ -40,6 +40,10 @@ def home():
     st.markdown(
         "#### App features:"
     )
+    st.info(
+        "Watch app [demo](https://www.youtube.com/watch?v=FHnXg05xfk4)."
+    )
+
     st.markdown(
         "**📊Data Science Agent**: Chat with your data."
     )
