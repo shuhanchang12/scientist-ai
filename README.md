@@ -12,4 +12,6 @@ A 2023 winter break side project.
 
 📄Paper Agent: Chat with a Paper.
 
-Watch Demo here __[here](https://www.youtube.com/watch?v=FHnXg05xfk4)__
+Watch Demo __[here](https://www.youtube.com/watch?v=FHnXg05xfk4)__
+Try App __[here](https://www.youtube.com/watch?v=FHnXg05xfk4)__ (with the caveat that this code hasn't been updated in a long time and langchain has changed alot!)
+Read accompany essay __[here](https://theepsilon.substack.com/p/semi-autonomous-ais-for-scientific)__
