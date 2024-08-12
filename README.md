@@ -12,4 +12,4 @@ A 2023 winter break side project.
 
 📄Paper Agent: Chat with a Paper.
 
-Watch Demo here __(here)[https://www.youtube.com/watch?v=FHnXg05xfk4]__
+Watch Demo here __[here](https://www.youtube.com/watch?v=FHnXg05xfk4)__
